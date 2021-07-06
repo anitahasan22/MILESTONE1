@@ -146,7 +146,11 @@ padding-top: 5%;
    padding-bottom: 5%;
    padding-top: 5%;
 }
-.container{
+.sub{
   
     display: inline;
+    
+}
+.allign{
+    margin-left: 5%;
 }
