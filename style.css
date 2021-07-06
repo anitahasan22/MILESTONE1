@@ -6,6 +6,7 @@ h1{
     font-size: 50px;
     padding-top: 10px;
     color: rgb(95, 93, 93);
+    margin-bottom: 0%;
    
 }
 h2{
@@ -75,7 +76,7 @@ h2{
     width: 40%;
     margin-left: 5%;
     margin-right: 5%;
-    box-shadow:10px 10px 40px grey;
+    box-shadow:10px 10px 40px rgb(168, 167, 167);
     border-radius: 5%;
     padding-left: 10px;
     padding-right: 10px;
@@ -83,12 +84,14 @@ h2{
 }
 p{
     padding-right: 5%;
+    margin-top: 0%;
+   
     
 }
 .Followers{
     margin-top: 5%;
     display: flex;
-    box-shadow:5px 5px 20px grey;
+    box-shadow:5px 5px 20px rgb(197, 193, 193);
     border-radius: 10px;
     margin-left: 5%;
     margin-right: 5%;
@@ -101,6 +104,8 @@ p{
     padding-left: 5%;
     padding-right: 5%;
     text-align: center;
+    padding-bottom: 5%;
+    
    
 
 }
