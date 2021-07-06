@@ -63,6 +63,7 @@ h2{
     display: flex;
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
+    
 
    
 }
@@ -121,13 +122,26 @@ footer{
   
 }
 .search{
+padding-top: 5%;
     text-align: center;
-    margin-right: 40%;
-    margin-left: 40%;
-    margin-bottom: 5%;
+    padding-right: 40%;
+    padding-left: 40%;
+    padding-bottom: 5%;
+    background-color: rgba(248, 191, 85, 0.116);
+
 }
 .Shop{
     text-align: center;
     background-image: url(images/food/Project\ Cover4.png);
-    padding: 5%;
+    padding: 5% ;
+}
+.subscription{
+    text-align: center;
+   background-color: rgba(248, 191, 85, 0.116);
+   padding-bottom: 5%;
+   padding-top: 5%;
+}
+.container{
+  
+    display: inline;
 }
